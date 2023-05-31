@@ -18,12 +18,14 @@
 ![Ekran görüntüsü 2023-05-31 153755](https://github.com/frknyr/frknyr/assets/122542046/2faf063d-48c3-4642-b1cd-dd148a9aa3c3)
 --
 -- **Kitap Ekleme**
+
 ![Ekran görüntüsü 2023-05-31 152257](https://github.com/frknyr/frknyr/assets/122542046/59ff35a9-a225-4cb0-884a-fc0d2cfb7400)
 
 ![Ekran görüntüsü 2023-05-31 153738](https://github.com/frknyr/frknyr/assets/122542046/54e641bf-c027-4a95-94a2-44450f59c876)
 
 ---
 --  **Sipariş Oluşturma**
+
 ![Ekran görüntüsü 2023-05-31 153440](https://github.com/frknyr/frknyr/assets/122542046/7baea705-ccca-4662-8fab-b22edd2613aa)
 
 ![Ekran görüntüsü 2023-05-31 153827](https://github.com/frknyr/frknyr/assets/122542046/24905032-577c-49e4-a858-503d526cae64)
@@ -63,5 +65,3 @@
 
 
 
-
- 
